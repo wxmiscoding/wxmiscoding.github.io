@@ -3,7 +3,22 @@
         <title>小明的 Hugo </title>
         <link>/</link>
         <description>这是我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 13 Feb 2022 20:37:05 &#43;0800</lastBuildDate>
             <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <item>
+    <title>Second_post</title>
+    <link>/second_post/</link>
+    <pubDate>Sun, 13 Feb 2022 20:37:05 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/second_post/</guid>
+    <description><![CDATA[<h1 id="主题文档---基本概念">主题文档 - 基本概念</h1>
+<p>探索 Hugo - <strong>LoveIt</strong> 主题的全部内容和背后的核心概念.</p>]]></description>
+</item><item>
+    <title>First_post</title>
+    <link>/first_post/</link>
+    <pubDate>Sun, 13 Feb 2022 16:11:29 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/first_post/</guid>
+    <description><![CDATA[first Hugo blog 啦啦]]></description>
+</item></channel>
 </rss>
